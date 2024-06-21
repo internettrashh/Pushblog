@@ -1,6 +1,7 @@
 # About
-i share my learnings here [internettrash](https://github.com/internettrashh)
-::github{repo="saicaca/fuwari"}
+check out my projects  here [internettrash](https://github.com/internettrashh)
+currently building 👇
+::github{repo="internettrashh/web3-AOformBuilder"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
