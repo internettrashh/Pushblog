@@ -1,6 +1,6 @@
 ---
 title: Understanding Web 3 Fundamentals
-published: 2022-07-01
+published: 2024-06-21
 tags: [Web3, Blogging,BRB bootcamp assignments]
 category: Guides
 draft: false

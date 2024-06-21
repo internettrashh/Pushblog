@@ -1,6 +1,5 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
-
+i share my learnings here [internettrash](https://github.com/internettrashh)
 ::github{repo="saicaca/fuwari"}
 
 > ### Sources of images used in this site
