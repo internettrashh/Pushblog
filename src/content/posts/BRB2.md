@@ -11,6 +11,7 @@ draft: false
 - Escrow in Web3
 - How Escrow Works
 - Tools to Get Started in Web3
+ 
 
  # Understanding public key cryptography & digital signatures
 
@@ -79,7 +80,10 @@ When writing Solidity code, it's important to have a suitable development enviro
 
 4. **Hardhat**: Hardhat is another popular development environment for Ethereum smart contracts. It offers a wide range of features, including built-in testing, debugging, and deployment tools. Hardhat also supports TypeScript, which provides additional type safety and tooling for Solidity development.
 
+( pro tip:  hardhat dosent work properly on some node vesions on mac , rather i personlly suggest you to go with the thirdwebframework instead , which comes with foundry support )
 
+
+# Escrows in Web 3
 
 
 ---
